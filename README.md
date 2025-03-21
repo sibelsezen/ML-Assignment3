@@ -1,4 +1,4 @@
-# ML-Assignment3
+# ML-Project3
 Consider the attached Breast Cancer Wisconsin dataset from the UCI machine learning repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29.
 The study of classification of 568 breast Cancers into two classes of Malignant(M) and Benine(B)
 based on the following 30 attributes. Features are computed from a digitized image of a fine
